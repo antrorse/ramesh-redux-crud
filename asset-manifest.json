@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/antrorse/ramesh-redux-curd/static/css/main.241951ba.css",
+    "main.js": "/antrorse/ramesh-redux-curd/static/js/main.3ccd4d7d.js",
+    "index.html": "/antrorse/ramesh-redux-curd/index.html",
+    "main.241951ba.css.map": "/antrorse/ramesh-redux-curd/static/css/main.241951ba.css.map",
+    "main.3ccd4d7d.js.map": "/antrorse/ramesh-redux-curd/static/js/main.3ccd4d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.3ccd4d7d.js"
+  ]
+}
